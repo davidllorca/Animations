@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Animations</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_generation">Generate buttons</string>
+    <string name="animation">With animation</string>
+    <string name="no_animation">No animation</string>
+    <string name="hide">Hide</string>
+    <string name="gone">Gone</string>
+    <string name="duration">Duration %d ms</string>
+    <string name="click_me">Click (%d) ms</string>
+</resources>
